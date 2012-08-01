@@ -7,7 +7,6 @@
 project ( oniguruma C )
 cmake_minimum_required ( VERSION 2.8 )
 include ( cmake/dist.cmake )
-incllude ( lua )
 
 ###########################################################################################
 # generating config.h file:
